@@ -1,4 +1,4 @@
-# Release Note
+# OCR Report Release Notes
 
 ## ver. 0.1 (2021-08-11)
 
