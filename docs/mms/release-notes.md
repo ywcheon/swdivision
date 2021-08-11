@@ -12,8 +12,7 @@
   - 고객 서명 하기(PDF 미리보기에서)
 * 패스워드 변경 기능
   - 메뉴 -> 아바타 초상화 클릭  
-  - 암호방식 변경(bcrypt)으로 모든 비번 초기화
-  - (초기화 비번은 카톡으로 공지)
+  - 암호방식 변경(bcrypt)으로 모든 비번 초기화 됨.(카톡공지확인)  
 
 ### 링크 주소
 * [https://report.idatabank.xyz](https://urlopen.link/report.idatabank.xyz/).
