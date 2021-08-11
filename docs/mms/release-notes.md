@@ -1,4 +1,4 @@
-# OCR Report Release Notes
+# 릴리즈
 
 ## ver. 0.1 (2021-08-11)
 
