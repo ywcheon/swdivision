@@ -16,4 +16,4 @@
   - (초기화 비번은 카톡으로 공지)
 
 ### 링크 주소
-* [https://report.idatabank.xyz](https://report.idatabank.xyz).
+* [https://report.idatabank.xyz](https://urlopen.link/report.idatabank.xyz/).
