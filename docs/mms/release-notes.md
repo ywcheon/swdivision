@@ -13,5 +13,5 @@
 * 패스워드 변경 가능
   - 메뉴 -> 아바타 초상화 클릭
 
-# 링크 주소
+## 링크 주소
 * [https://report.idatabank.xyz](https://report.idatabank.xyz).
