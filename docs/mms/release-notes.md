@@ -1,5 +1,11 @@
 # 릴리즈
 
+## 0.2.1 릴리즈
+### 주요 내용
+* Item 추가 - Exadata 추가
+* PDF Template 추가 - Exdata 추가
+* Item 항목 수정 - WAS(DB Connection Pool)
+
 ## 0.2.0 릴리즈
 ### 주요 내용
 * Item 추가 - ArcForOracle
