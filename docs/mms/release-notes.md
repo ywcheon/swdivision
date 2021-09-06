@@ -1,5 +1,11 @@
 # 릴리즈
 
+## 0.2.3 릴리즈
+### 주요 내용
+* favicon.ico 교체
+* 앱이름 변경(TECH APP => DCM)
+* PDF 서명 완료 후 서명 버튼 숨김(Hide)
+
 ## 0.2.2.1 릴리즈
 ### 주요 내용
 * 구 Item 중에 varchar 범위를 넘는 data는 출력하는 대신 주석(# todo : ColumnSizeException) 처리
