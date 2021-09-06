@@ -2,6 +2,11 @@
 
 ## 0.2.1.1 릴리즈
 ### 주요 내용
+* 구 Item 중에 varchar 범위를 넘는 data는 출력하는 대신 주석(# todo : ColumnSizeException) 처리
+* PDF 템플릿 소스 정리
+
+## 0.2.1.1 릴리즈
+### 주요 내용
 * Item 추가 - QBA 추가
  
 ## 0.2.1 릴리즈
