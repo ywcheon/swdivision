@@ -5,6 +5,7 @@
 * favicon.ico 교체
 * 앱이름 변경(TECH APP => DCM)
 * PDF 서명 완료 후 서명 버튼 숨김(Hide)
+* Custom Item 기능 추가
 
 ## 0.2.2.1 릴리즈
 ### 주요 내용
