@@ -2,6 +2,10 @@
 
 ## 0.2.3 릴리즈
 ### 주요 내용
+* DBsafer Instance 추가 하도록 수정
+
+## 0.2.3 릴리즈
+### 주요 내용
 * favicon.ico 교체
 * 앱이름 변경(TECH APP => DCM)
 * PDF 서명 완료 후 서명 버튼 숨김(Hide)
