@@ -3,6 +3,7 @@
 ## 0.2.3 릴리즈
 ### 주요 내용
 * DBsafer Instance 추가 하도록 수정
+* 도메인 변경 : report.idatabank.xyz => dcm.idatabank.com
 
 ## 0.2.3 릴리즈
 ### 주요 내용
