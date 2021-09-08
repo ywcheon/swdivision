@@ -4,6 +4,7 @@
 ### 주요 내용
 * DBsafer Instance 추가 하도록 수정
 * 도메인 변경 : report.idatabank.xyz => dcm.idatabank.com
+* token expired time : 365일로 변경
 
 ## 0.2.3 릴리즈
 ### 주요 내용
